@@ -228,4 +228,4 @@ jupyter notebook notebooks/CUP_IT_26_Final.ipynb
 
 ## Лицензия
 
-[MIT](LICENSE)
+Этот проект распространяется под лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
